@@ -1,0 +1,15 @@
+/Users/oliverbennett/Desktop/vsc/tests/bin/Debug/net6.0/tests
+/Users/oliverbennett/Desktop/vsc/tests/bin/Debug/net6.0/tests.deps.json
+/Users/oliverbennett/Desktop/vsc/tests/bin/Debug/net6.0/tests.runtimeconfig.json
+/Users/oliverbennett/Desktop/vsc/tests/bin/Debug/net6.0/tests.dll
+/Users/oliverbennett/Desktop/vsc/tests/bin/Debug/net6.0/tests.pdb
+/Users/oliverbennett/Desktop/vsc/tests/obj/Debug/net6.0/tests.csproj.AssemblyReference.cache
+/Users/oliverbennett/Desktop/vsc/tests/obj/Debug/net6.0/tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliverbennett/Desktop/vsc/tests/obj/Debug/net6.0/tests.AssemblyInfoInputs.cache
+/Users/oliverbennett/Desktop/vsc/tests/obj/Debug/net6.0/tests.AssemblyInfo.cs
+/Users/oliverbennett/Desktop/vsc/tests/obj/Debug/net6.0/tests.csproj.CoreCompileInputs.cache
+/Users/oliverbennett/Desktop/vsc/tests/obj/Debug/net6.0/tests.dll
+/Users/oliverbennett/Desktop/vsc/tests/obj/Debug/net6.0/refint/tests.dll
+/Users/oliverbennett/Desktop/vsc/tests/obj/Debug/net6.0/tests.pdb
+/Users/oliverbennett/Desktop/vsc/tests/obj/Debug/net6.0/tests.genruntimeconfig.cache
+/Users/oliverbennett/Desktop/vsc/tests/obj/Debug/net6.0/ref/tests.dll
